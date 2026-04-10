@@ -100,6 +100,10 @@ Table of contents
 ## Installation
 
 ### Docker (recommended)
+
+> 🆕 **新手入门 / Beginner?** See the step-by-step Docker installation guide (中文/English):  
+> [docs/docker-guide.md](docs/docker-guide.md)
+
 1. Install Docker: https://docs.docker.com/get-docker/
 2. Create persistent directories:
    - Example (Linux/macOS):
